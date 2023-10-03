@@ -1,6 +1,6 @@
 .btn {
     padding: 12px 24px;
-    color: grey;
+    color: black;
     display: inline-block;
     opacity: 0.8;
     border-radius: 4px;
@@ -30,7 +30,7 @@ h1 {
     width: 400px;
 }
 img {
-    height: 350px;
+    height: 550px;
 }
 .main p {
     opacity: 0.7;
@@ -38,7 +38,7 @@ img {
 }
 .btn {
     padding: 12px 24px;
-    color: white;
+    color: black;
     display: inline-block;
     opacity: 0.8;
     border-radius: 4px;
@@ -56,7 +56,7 @@ img {
     margin: 10px 0;
 }
 .Beli di sini {
-    background-color: hsl(18, 93%, 48%);
+    background-color: orange ;
 }
 .contents {
     height: 500px;
