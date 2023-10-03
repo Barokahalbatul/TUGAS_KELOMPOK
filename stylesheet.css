@@ -32,3 +32,41 @@ h1 {
 img {
     height: 350px;
 }
+.main p {
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+.btn:hover {
+    opacity: 1;
+}
+.fa {
+    margin-right: 5px;
+}
+.btn-wrapper {
+    margin: 20px 0;
+}
+.btn-wrapper p {
+    margin: 10px 0;
+}
+.Beli di sini {
+    background-color: hsl(18, 93%, 48%);
+}
+.contents {
+    height: 500px;
+    margin-top: 100px;
+}
+.contents-item {
+    float: left;
+    margin-right: 40px;
+}
+.contents-item p {
+    font-size: 24px;
+    margin-top: 30px;
+}
