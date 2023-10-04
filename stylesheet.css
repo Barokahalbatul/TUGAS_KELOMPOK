@@ -29,6 +29,34 @@ h1 {
     height:70px;
     width: 400px;
 }
+.btn {
+    padding: 12px 24px;
+    color: black;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+.btn:hover {
+    opacity: 1;
+}
+.fa {
+    margin-right: 5px;
+}
+.btn-wrapper {
+    margin: 20px 0;
+}
+.btn-wrapper p {
+    margin: 10px 0;
+}
+.Facebook {
+    background-color: #3b5998;
+}
+.Twitter {
+    background-color: #55acee;
+}
+.Instagram {
+    background-color: #3b5998;
+}
 .main p {
     opacity: 0.7;
     margin-bottom: 3px;
