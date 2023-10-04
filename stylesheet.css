@@ -3,7 +3,7 @@
     color: black;
     display: inline-block;
     opacity: 0.8;
-    border-radius: 4px;
+    border-radius: 2px;
 }
 .btn:hover {
     opacity: 1;
@@ -12,7 +12,7 @@
     margin-right: 5px;
 }
 .btn-wrapper {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 .btn-wrapper p {
     margin: 5px 0;
